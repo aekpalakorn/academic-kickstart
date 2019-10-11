@@ -1,6 +1,6 @@
 ---
 title: "Estimating Glycemic Impact of Cooking Recipes via Online Crowdsourcing and Machine Learning"
-date: 2019-01-01
+date: 2019-11-20
 publishDate: 2019-10-10T10:40:14.791479Z
 authors: ["Helena Lee", "Palakorn Achananuparp", "Yue Liu", "Ee-Peng Lim", "Lav R. Varshney"]
 publication_types: ["0"]

@@ -1,6 +1,6 @@
 ---
 title: "Characterizing and Predicting Repeat Food Consumption Behavior for Just-in-Time Interventions"
-date: 2019-01-01
+date: 2019-11-20
 publishDate: 2019-10-10T10:40:14.790567Z
 authors: ["Yue Liu", "Helena Lee", "Palakorn Achananuparp", "Ee-Peng Lim", "Tzu-Ling Cheng", "Shou-De Lin"]
 publication_types: ["0"]

@@ -1,6 +1,6 @@
 ---
 title: "FoodAI: Food Image Recognition via Deep Learning for Smart Food Logging"
-date: 2019-01-01
+date: 2019-08-04
 publishDate: 2019-10-09T06:50:14.326673Z
 authors: ["Doyen Sahoo", "Wang Hao", "Shu Ke", "Wu Xiongwei", "Hung Le", "Palakorn Achananuparp", "Ee-Peng Lim", "Steven C. H. Hoi"]
 publication_types: ["1"]
