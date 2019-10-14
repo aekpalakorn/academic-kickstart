@@ -1,6 +1,6 @@
 ---
 title: "AskDragon: A redundancy-based factoid question answering system with lightweight local context analysis"
-date: 2009-01-01
+date: 2009-06-15
 publishDate: 2019-10-09T06:50:14.338097Z
 authors: ["Xiaohua Zhou", "Palakorn Achananuparp", "E.K. Park", "Xiaohua Hu", "Xiaodan Zhang"]
 publication_types: ["1"]

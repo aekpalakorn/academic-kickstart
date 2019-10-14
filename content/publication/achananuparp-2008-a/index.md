@@ -1,6 +1,6 @@
 ---
 title: "Utilizing Semantic, Syntactic, and Question category Information for Automated Digital Reference Services"
-date: 2008-01-01
+date: 2008-12-02
 publishDate: 2019-10-09T06:50:14.340773Z
 authors: ["Palakorn Achananuparp", "Xiaohua Hu", "Xiaohua Zhou", "Xiaodan Zhang"]
 publication_types: ["5"]

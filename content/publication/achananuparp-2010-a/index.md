@@ -1,6 +1,6 @@
 ---
 title: "Answer diversification for complex question answering on the web"
-date: 2010-01-01
+date: 2010-06-21
 publishDate: 2019-10-09T06:50:14.336974Z
 authors: ["Palakorn Achananuparp", "Xiaohua Hu", "Tingting He", "Christopher C. Yang", "Yuan An", "Lifan Guo"]
 publication_types: ["1"]

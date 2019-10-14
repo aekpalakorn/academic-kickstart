@@ -1,6 +1,6 @@
 ---
 title: "On Analyzing Geotagged Tweets for Location-Based Patterns"
-date: 2016-01-01
+date: 2016-01-04
 publishDate: 2019-10-09T06:50:14.328931Z
 authors: ["Philips Kokoh Prasetyo", "Palakorn Achananuparp", "Ee-Peng Lim"]
 publication_types: ["1"]

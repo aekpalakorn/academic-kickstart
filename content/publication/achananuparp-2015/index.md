@@ -1,6 +1,6 @@
 ---
 title: "eScience and Living Analytics"
-date: 2015-01-01
+date: 2015-12-10
 publishDate: 2019-10-09T06:50:14.330148Z
 authors: ["Palakorn Achananuparp"]
 publication_types: ["1"]

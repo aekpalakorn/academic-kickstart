@@ -1,6 +1,6 @@
 ---
 title: "Do you know the speaker?: an online experiment with authority messages on event websites"
-date: 2014-01-01
+date: 2014-04-07
 publishDate: 2019-10-09T06:50:14.331438Z
 authors: ["Kwan Hui Lim", "Binyan Jiang", "Ee-Peng Lim", "Palakorn Achananuparp"]
 publication_types: ["1"]

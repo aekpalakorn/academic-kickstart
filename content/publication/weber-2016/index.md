@@ -1,6 +1,6 @@
 ---
 title: "Insights from Machine-Learned Diet Success Prediction"
-date: 2016-01-01
+date: 2016-01-04
 publishDate: 2019-10-09T06:50:14.329309Z
 authors: ["Ingmar Weber", "Palakorn Achananuparp"]
 publication_types: ["1"]

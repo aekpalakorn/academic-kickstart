@@ -1,6 +1,6 @@
 ---
 title: "Using Online Controlled Experiments to Examine Authority Effects on User Behavior in Email Campaigns"
-date: 2016-01-01
+date: 2016-07-10
 publishDate: 2019-10-09T06:50:14.328526Z
 authors: ["Kwan Hui Lim", "Ee-Peng Lim", "Binyan Jiang", "Palakorn Achananuparp"]
 publication_types: ["1"]

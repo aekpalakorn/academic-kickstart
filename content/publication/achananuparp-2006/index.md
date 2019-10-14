@@ -1,6 +1,6 @@
 ---
 title: "A tool for teaching principles of image metadata generation"
-date: 2006-01-01
+date: 2006-06-11
 publishDate: 2019-10-09T06:50:14.344189Z
 authors: ["Palakorn Achananuparp", "Katherine W. McCain", "Robert B. Allen"]
 publication_types: ["1"]

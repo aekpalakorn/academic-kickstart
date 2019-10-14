@@ -1,6 +1,6 @@
 ---
 title: "Utilization of Global Ranking Information in Graph-based Biomedical Literature Clustering"
-date: 2007-01-01
+date: 2007-09-03
 publishDate: 2019-10-09T06:50:14.341244Z
 authors: ["Xiaodan Zhang", "Xiaohua Hu", "Jiali Xia", "Xiaohua Zhou", "Palakorn Achananuparp"]
 publication_types: ["1"]
@@ -8,5 +8,6 @@ abstract: "In this paper, we explore how global ranking method in conjunction wi
 featured: false
 publication: "*Proceedings of the 9th International Conference on Data Warehousing and Knowledge Discovery - DaWak '07*"
 tags: ["Document clustering", "Global ranking", "Term graph"]
+doi: "https://doi.org/10.1007/978-3-540-74553-2_29"
 ---
 

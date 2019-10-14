@@ -1,6 +1,6 @@
 ---
 title: "Semantically Enhanced User Modeling"
-date: 2007-01-01
+date: 2007-03-11
 publishDate: 2019-10-09T06:50:14.341899Z
 authors: ["Palakorn Achananuparp", "Hyoil Han", "Olfa Nasraoui", "Roberta Johnson"]
 publication_types: ["1"]

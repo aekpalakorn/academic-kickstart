@@ -1,6 +1,6 @@
 ---
 title: "Voting and political information gathering on paper and online"
-date: 2005-01-01
+date: 2005-04-02
 publishDate: 2019-10-09T06:50:14.344825Z
 authors: ["Scott P. Robertson", "Palakorn Achananuparp", "James L. Goldman", "Sang Joon Park", "Nan Zhou", "Matthew J. Clare"]
 publication_types: ["1"]
