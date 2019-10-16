@@ -79,7 +79,7 @@ email: ""
 user_groups: []
 ---
 
-I am a senior research scientist at Living Analytics Research Centre (LARC), Singapore Management University. Currently, I am leading the centre's research in the [Smart Consumption and Healthy Lifestyle](https://larc.smu.edu.sg/research/application-domains) application domain where we are developing personalized healthy eating and behavioral change technology for just-in-time behavioral change interventions.
+I am a senior research scientist at Living Analytics Research Centre (LARC), Singapore Management University. Currently, I am leading LARC's research in the Smart Consumption and Healthy Lifestyle application domain where we are developing personalized healthy eating and behavioral change technology for just-in-time behavioral change interventions.
 
 My research interests include the applications of data mining, natural language processing, and machine learning techniques in digital health and well-being domains, especially food consumption and health, personal informatics and quantified self, crowdsourcing, and computational social science in general.
 
