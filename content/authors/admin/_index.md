@@ -21,11 +21,11 @@ organizations:
 bio: ""
 
 interests:
-- Computational Social Science
-- Data Science
-- Digital Health
 - Behavior Change
+- Computational Social Science
 - Crowdsourcing
+- Digital Health
+- Personal Informatics
 
 education:
   courses:
@@ -79,9 +79,9 @@ email: ""
 user_groups: []
 ---
 
-I am a senior research scientist at Living Analytics Research Centre (LARC), Singapore Management University. 
+I am a senior research scientist at Living Analytics Research Centre (LARC), Singapore Management University. Currently, I am leading the centre's research in the [Smart Consumption and Healthy Lifestyle](https://larc.smu.edu.sg/research/application-domains) application domain where we are developing personalized healthy eating and behavioral change technology for just-in-time behavioral change interventions.
 
-My current projects involve the development of: (1) personalized healthy eating and behavioral change technology for just-in-time interventions; and (2) a large-scale food knowledge crowdsourcing platform. My research interests include applications of data mining and machine learning techniques in computational social science, crowdsourcing, digital health, and personal informatics.
+My research interests include the applications of data mining, natural language processing, and machine learning techniques in digital health and well-being domains, especially food consumption and health, personal informatics and quantified self, crowdsourcing, and computational social science in general.
 
 I was born and grew up in Thailand. Most of the time, people call me by my nickname __Aek__ (as in _egg_ :speaker: [Google Translate](https://translate.google.com/#view=home&op=translate&sl=th&tl=en&text=%E0%B9%80%E0%B8%AD%E0%B8%81)). My first name and last name are pronounced as follows: 
 
