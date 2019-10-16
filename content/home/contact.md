@@ -18,3 +18,4 @@ autolink = true
 email_form = 0
 +++
 
+The primary way of contacting me is through my work email. I can also be reached on Twitter though I rarely tweet except to occasionally broadcast updates about research and publication. For internal project chats, discussions, and paper sharing, I primarily use Slack. Lastly, I only accept a connection request and read messages on LinkedIn from people whom I've professionally met in real life.
