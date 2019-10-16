@@ -4,11 +4,11 @@
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 22  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 21  # Order that this section will appear.
 
-title = "Updates"
-subtitle = ""
+title = "Pronunciation Guide"
+subtitle = "How to say my names"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -67,5 +67,7 @@ subtitle = ""
   columns = "2"
 +++
 
-* Aug 2019 - Two papers accepted to Digital Public Health (DPH 2019)
-* Jun 2019 - FoodAI [paper](http://localhost:1313/publication/sahoo-2019/) accepted to KDD 2019 Applied Data Sceince Track
+I was born and grew up in Thailand. Most of the time, people call me by my nickname __Aek__ (as in _egg_ :speaker: [Google Translate](https://translate.google.com/#view=home&op=translate&sl=th&tl=en&text=%E0%B9%80%E0%B8%AD%E0%B8%81)). My first name and last name are pronounced as follows: 
+
+* __Palakorn__ as in _Pa-la-gon_ :speaker: [Google Translate](https://translate.google.com/#view=home&op=translate&sl=th&tl=en&text=%E0%B8%9E%E0%B8%A5%E0%B8%B2%E0%B8%81%E0%B8%A3)
+* __Achananuparp__ as in _A-cha-na-nu-pap_ :speaker: [Google Translate](https://translate.google.com/#view=home&op=translate&sl=th&tl=en&text=%E0%B8%AD%E0%B8%B2%E0%B8%8A%E0%B8%B2%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%9E)

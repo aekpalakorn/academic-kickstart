@@ -82,9 +82,3 @@ user_groups: []
 I am a senior research scientist at Living Analytics Research Centre (LARC), Singapore Management University. Currently, I am leading LARC's research in the Smart Consumption and Healthy Lifestyle application domain where we are developing personalized healthy eating and behavioral change technology for just-in-time behavioral change interventions.
 
 My research interests include the applications of data mining, natural language processing, and machine learning techniques in digital health and well-being domains, especially food consumption and health, personal informatics and quantified self, crowdsourcing, and computational social science in general.
-
-I was born and grew up in Thailand. Most of the time, people call me by my nickname __Aek__ (as in _egg_ :speaker: [Google Translate](https://translate.google.com/#view=home&op=translate&sl=th&tl=en&text=%E0%B9%80%E0%B8%AD%E0%B8%81)). My first name and last name are pronounced as follows: 
-
-* __Palakorn__ as in _Pa-la-gon_ :speaker: [Google Translate](https://translate.google.com/#view=home&op=translate&sl=th&tl=en&text=%E0%B8%9E%E0%B8%A5%E0%B8%B2%E0%B8%81%E0%B8%A3)
-* __Achananuparp__ as in _A-cha-na-nu-pap_ :speaker: [Google Translate](https://translate.google.com/#view=home&op=translate&sl=th&tl=en&text=%E0%B8%AD%E0%B8%B2%E0%B8%8A%E0%B8%B2%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%9E)
-
