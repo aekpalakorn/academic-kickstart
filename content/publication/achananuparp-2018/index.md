@@ -8,6 +8,7 @@ abstract: "Past research has shown the benefits of food journaling in promoting 
 featured: false
 publication: "*Proceedings of the 2018 International Conference on Digital Health - DH '18*"
 tags: ["Eating behaviors", "Food journals", "Healthy eating", "Quantified self", "food consumption", "health"]
+url_preprint: "https://arxiv.org/abs/1805.01129"
 url_pdf: "http://dl.acm.org/citation.cfm?doid=3194658.3194663"
 doi: "10.1145/3194658.3194663"
 url_code: "https://github.com/LARC-CMU-SMU/dh2018-healthy-eating/"

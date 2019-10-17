@@ -8,6 +8,7 @@ abstract: "A growing body of evidence has shown that incorporating behavioral ec
 featured: false
 publication: "*Proceedings of the 2018 International Conference on Digital Health - DH '18*"
 tags: ["Food logging", "Health", "Incentives", "Loss aversion", "Quantified self", "Randomized controlled trial", "Unpredictability"]
+url_preprint: "https://arxiv.org/abs/1805.01130"
 doi: "10.1145/3194658.3194662"
 url_code: "https://github.com/LARC-CMU-SMU/dh2018-eatntell/"
 url_dataset: "https://drive.google.com/open?id=1zuo9CXxquiS8r8iyMQEJfDSQO8YO9j1w"

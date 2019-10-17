@@ -8,6 +8,7 @@ abstract: "An important aspect of health monitoring is effective logging of food
 featured: false
 publication: "*Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining - KDD '19*"
 tags: ["Food Computing", "Image Recognition", "Smart Food Logging"]
+url_preprint: "https://arxiv.org/abs/1909.11946"
 url_pdf: "http://dl.acm.org/citation.cfm?doid=3292500.3330734"
 doi: "10.1145/3292500.3330734"
 url_project: "https://foodai.org/"
