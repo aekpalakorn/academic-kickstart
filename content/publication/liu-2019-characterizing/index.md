@@ -8,5 +8,7 @@ abstract: "Human beings are creatures of habit. In their daily life, people tend
 featured: false
 publication: "*Proceedings of the 9th International Digital Public Health Conference - DPH '19*"
 url_preprint: "https://arxiv.org/abs/1909.07683"
+url_code: "https://github.com/LARC-CMU-SMU/DPH-2019-Novel-Repeat-Food-Consumption"
+url_dataset: "https://drive.google.com/open?id=1J2I9UlHiQrA0S8DM2Z3YUl4qr6UDBORr"
 ---
 

@@ -8,5 +8,6 @@ abstract: "Consumption of diets with low glycemic impact is highly recommended f
 featured: false
 publication: "*Proceedings of the 9th International Digital Public Health Conference - DPH '19*"
 url_preprint: "https://arxiv.org/abs/1909.07881"
+url_code: "https://github.com/LARC-CMU-SMU/dph19-glycemic-impact"
 ---
 
