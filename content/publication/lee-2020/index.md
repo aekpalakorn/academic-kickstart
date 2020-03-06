@@ -16,7 +16,7 @@ url_preprint: "https://arxiv.org/abs/2003.02498"
 url_code: "https://github.com/LARC-CMU-SMU/RecipeGPT-exp"
 url_dataset:
 url_poster:
-url_project:
+url_project: "https://recipegpt.org"
 url_slides:
 url_source:
 url_video:
