@@ -69,7 +69,6 @@ subtitle = "Things I'm currently working on"
 
 * Evaluating Food Recommender Systems Beyond Accuracy Metrics
 * Incremental Transformation of Facial Weight by Steering StyleGAN Latent Space
-* Design and Development of a Data-Driven Conversational Agent for Diets
 * Early Detection of About-to-Eat Moments
 * Evaluating Persona-Based Utterance Styles
 * A Randomized Trial of Conversational Agents in Just-in-Time Eating Intervention
