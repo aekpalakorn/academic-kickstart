@@ -12,7 +12,7 @@ tags: []
 categories: []
 featured: false
 url_pdf:
-url_preprint: 
+url_preprint: "https://arxiv.org/abs/2009.05704"
 url_code: 
 url_dataset:
 url_poster:
