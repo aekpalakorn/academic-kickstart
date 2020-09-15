@@ -16,7 +16,7 @@ url_preprint: "https://arxiv.org/abs/2009.05704"
 url_code: 
 url_dataset:
 url_poster:
-url_project: 
+url_project: "https://research.larc.smu.edu.sg/foodbot/"
 url_slides:
 url_source:
 url_video:
